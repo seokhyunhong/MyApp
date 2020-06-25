@@ -26,4 +26,4 @@ code 넣는 곳
 
 ![Alt text](https://cdn.pixabay.com/photo/2015/08/15/11/53/cube-889456_1280.jpg)
 
-![Alt text](img/photo-1585834565211-2bf75c296c59.jpg)
+![Alt text](img/diamond.jpg)
