@@ -24,6 +24,6 @@ code 넣는 곳
 
 ### 이미지
 
-![Alt text](https://images.unsplash.com/photo-1583168976314-51a437e22f06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Alt text](https://cdn.pixabay.com/photo/2015/08/15/11/53/cube-889456_1280.jpg)
 
 ![Alt text](img/photo-1585834565211-2bf75c296c59.jpg)
